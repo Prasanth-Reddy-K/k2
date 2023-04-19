@@ -1,0 +1,1 @@
+print("C:/Users/DELL/AppData/Local/Programs/Python/Python311/python.exe c:/Users/DELL/Desktop/k1/grading.py")
